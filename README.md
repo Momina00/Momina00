@@ -20,7 +20,8 @@ Allahabad University
 
 ## Projects
 
-- Voice_Assistant, Personal voice assistant with python
+- Voice_Assistant (Personal voice assistant with python)
+  
 • Built a Python voice assistant with speech output using 
 pyttsx3.
 • Implemented command handling (time, date, web actions) 
@@ -30,7 +31,11 @@ handling.
 • Added fallback input system to handle voice recognition 
 limitations
 
+- Spam Email Detector Web App
+  LIVE DEMO:https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
+
 - Unemployment analysis with python
+  
 • Analyzed unemployment dataset to identify trends across 
 time and regions
 • Explored patterns such as seasonal changes and variations 
@@ -41,6 +46,7 @@ inconsistencies
 support conclusions
 
 - Fake News Detection System (NLP + Web App)
+  
 • Built a model to classify news as real or fake using text 
 data
 • Analyzed and processed sensitive content with an 
