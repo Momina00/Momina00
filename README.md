@@ -20,42 +20,55 @@ Allahabad University
 
 ## Projects
 
-- Voice_Assistant (Personal voice assistant with python)
-  
-• Built a Python voice assistant with speech output using 
+Voice_Assistant, Personal voice assistant with python
+•
+Built a Python voice assistant with speech output using 
 pyttsx3.
-• Implemented command handling (time, date, web actions) 
+•
+Implemented command handling (time, date, web actions) 
 using conditional logic.
-• Designed a continuous interaction loop with error 
+•
+Designed a continuous interaction loop with error 
 handling.
-• Added fallback input system to handle voice recognition 
+•
+Added fallback input system to handle voice recognition 
 limitations
 
-- Spam Email Detector Web App
+Spam Email Detector Web App
   LIVE DEMO:https://emailspamdetectorwebapp-qfsftl742sanceswgdxfzj.streamlit.app/
 
-- Unemployment analysis with python
-  
-• Analyzed unemployment dataset to identify trends across 
+Unemployment analysis with python
+•
+Analyzed unemployment dataset to identify trends across 
 time and regions
-• Explored patterns such as seasonal changes and variations 
+•
+Explored patterns such as seasonal changes and variations 
 in unemployment rates
-• Cleaned and validated data to handle missing values and 
+•
+Cleaned and validated data to handle missing values and 
 inconsistencies
-• Used Python (Pandas, Matplotlib) to visualize insights and 
+•
+Used Python (Pandas, Matplotlib) to visualize insights and 
 support conclusions
+•
+Documented findings clearly and refined results based on 
+iterative feedbacks
 
-- Fake News Detection System (NLP + Web App)
-  
-• Built a model to classify news as real or fake using text 
+Fake News Detection System (NLP + Web App)
+•
+Built a model to classify news as real or fake using text 
 data
-• Analyzed and processed sensitive content with an 
+•
+Analyzed and processed sensitive content with an 
 unbiased approach
-• Applied logical reasoning to evaluate conflicting 
+•
+Applied logical reasoning to evaluate conflicting 
 information patterns
-• Cleaned and preprocessed textual data to improve model 
+•
+Cleaned and preprocessed textual data to improve model 
 accuracy
-• Evaluated model performance and refined results based 
+•
+Evaluated model performance and refined results based 
 on feedback
 
 
