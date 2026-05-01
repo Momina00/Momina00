@@ -18,7 +18,7 @@ Integral University
 Allahabad University
 2020 – 2023 | Allahabad
 
-##Projects
+## Projects
 
 - Voice_Assistant, Personal voice assistant with python
 • Built a Python voice assistant with speech output using 
@@ -53,7 +53,7 @@ accuracy
 on feedback
 
 
-##Technical Skills
+## Technical Skills
 - Programming Languages
     Python, Basic SQL (SELECT, filtering, simple joins – learning 
     phase)
@@ -70,18 +70,19 @@ on feedback
 - Python training
 12/2025 – 12/2025 | Sipher Web academy, Lucknow
 - Data analytics (job simulation), Offered by Deloitte
+  
 RESPONSIBILITIES-----
 • data analysis and forensic technology tasks
 • Built interactive dashboards using Tableau
 10/2025 – 12/2025 | Remote
 
-##Certificates
+## Certificates
 - GenAI hackathon by Google
 Level 1
 - Techathon ,hackathon by EY
 Level 1
 
-##Contact @
+## Contact @
 khadijanizami372 @gmail.com
 linkedin.com/in/khadija-nizami-a59814384
 
