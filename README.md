@@ -21,6 +21,7 @@ Allahabad University
 ## Projects
 
 Voice_Assistant, Personal voice assistant with python
+
 •
 Built a Python voice assistant with speech output using 
 pyttsx3.
